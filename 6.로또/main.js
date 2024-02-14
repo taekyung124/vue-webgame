@@ -1,4 +1,4 @@
 import {createApp} from 'vue';
-import LottoGenerater from './LottoGenerater.vue';
+import LottoGenerator from './LottoGenerator.vue';
 
-createApp(LottoGenerater).mount('#root');
+createApp(LottoGenerator).mount('#root');
